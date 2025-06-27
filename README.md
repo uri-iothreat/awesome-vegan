@@ -37,6 +37,7 @@ Veganism is the practice of abstaining from the use of animal products, particul
  
  * [Berlin Vegan Guide](https://www.github.com/Berlin-Vegan/berlin-vegan-guide) - A mobile Berlin guide app for Android.
  * [Happy Cow](https://www.happycow.net/mobile) - A mobile app for identifying locations selling vegetarian and vegan options.
+ * [Go Vegan Challenge](https://go-vegan-challenge.org/) - A free, user-friendly web app that helps people transition to a vegan lifestyle through daily challenges, personalized meal plans, 100+ easy recipes, and an AI-powered support chat.
 
 ## Open Data Platforms
 
